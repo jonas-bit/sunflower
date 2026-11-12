@@ -26,4 +26,5 @@
     <color name="sunflower_white">#deffffff</color>
     <color name="sunflower_yellow_300">#f8f99f</color>
     <color name="sunflower_yellow_500">#ffff63</color>
+    <color name="ic_launcher_background">#49BB79</color>
 </resources>

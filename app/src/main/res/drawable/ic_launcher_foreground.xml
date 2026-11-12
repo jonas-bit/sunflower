@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2026 Google LLC
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<!-- White sunflower, drawn inside the 66dp adaptive-icon safe zone. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="0">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="30">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="60">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="90">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="120">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="150">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="180">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="210">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="240">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="270">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="300">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:rotation="330">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,23 a4.8,11 0 1,1 0,22 a4.8,11 0 1,1 0,-22 z" />
+    </group>
+    <path
+        android:fillColor="#005D2B"
+        android:pathData="M42.50,54.00 a11.5,11.5 0 1,0 23.00,0 a11.5,11.5 0 1,0 -23.00,0 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51.89,55.25 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M53.48,51.39 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M55.20,56.54 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M49.61,53.36 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M56.74,51.78 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M52.07,58.38 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M50.99,49.66 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M58.17,55.79 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M48.12,56.12 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M55.73,48.70 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M55.09,59.85 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M47.71,50.79 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M59.76,52.57 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M49.27,59.66 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M52.33,46.89 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M58.91,58.77 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M45.63,54.32 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M58.81,48.46 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M52.88,62.06 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M47.95,47.65 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z M61.65,55.13 a0.75,0.75 0 1,0 1.50,0 a0.75,0.75 0 1,0 -1.50,0 z" />
+</vector>
